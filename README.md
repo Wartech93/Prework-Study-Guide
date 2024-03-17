@@ -1,8 +1,5 @@
-<<<<<<< HEAD
-# <Prework-Study-Guide>
-=======
 ## <Prework-Study-Guide>
->>>>>>> 5678d3fdc0bbb23e6386e3ceb733de2f28074ddb
+
 
 ## Description
 
@@ -80,8 +77,4 @@ If you created an application or package and would like other developers to cont
 
 ## Tests
 
-<<<<<<< HEAD
 Go the extra mile and write tests for your application. Then provide examples on how to run them here.
-=======
-Go the extra mile and write tests for your application. Then provide examples on how to run them here.
->>>>>>> 5678d3fdc0bbb23e6386e3ceb733de2f28074ddb
