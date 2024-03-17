@@ -1,16 +1,13 @@
-# <Preword-Study-Guide>
+# <Prework-Study-Guide>
 
 ## Description
 
-Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
-
-- What was your motivation?
 To creat a guide to help with the understanding of web page development.
-- Why did you build this project? (Note: the answer is not "Because it was a homework assignment.")
+
 To give a basic description of how to use HTML. CSS, and Javascript
-- What problem does it solve?
-Created a source of information to web page design
-- What did you learn?
+
+Gives a simple web page and example of working in Visual Studio for web design.
+
 How to create basics of a web page, hwo to make it interactive and how to merge with GitHub repository.
 
 
